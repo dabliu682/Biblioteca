@@ -3,3 +3,5 @@
 >php bin/console doctrine:fixtures:load
 ### Correr Migraciones
 > php bin/console doctrine:migrations:migrate
+### Obtener rol de usuario en twig
+> app.user.roles[0]
