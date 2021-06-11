@@ -5,3 +5,5 @@
 > php bin/console doctrine:migrations:migrate
 ### Obtener rol de usuario en twig
 > app.user.roles[0]
+### Limpiar cache
+>php app/console cache:clear
