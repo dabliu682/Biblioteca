@@ -6,4 +6,4 @@
 ### Obtener rol de usuario en twig
 > app.user.roles[0]
 ### Limpiar cache
->php app/console cache:clear
+>php bin/console cache:clear
