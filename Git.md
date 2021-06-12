@@ -1,8 +1,8 @@
-###Iniciar git
+### Iniciar git
 >git int
-###Actualizar el repositorio
+### Actualizar el repositorio
 >git add .
-###Agregar commit	
+### Agregar commit	
 >git commit -m "Init project"
-###Registro de commit
+### Registro de commit
 >git log	
