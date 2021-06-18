@@ -14,6 +14,6 @@
 >anexos:resource: "../src/Routing/anexos.yaml"
 ### Construccion de una ruta
 >anexos_listar:
->>path: /anexos
->>defaults: {_controller: App\Controller\AnexoController::listar}
+  path: /anexos
+    defaults: {_controller: App\Controller\AnexoController::listar}
 
