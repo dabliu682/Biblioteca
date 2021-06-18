@@ -20,4 +20,10 @@
 >>path: /anexos<br>
 >
 >>defaults: {_controller: App\Controller\AnexoController::listar}
-
+### Cambiar configuracion de ruta (src/Views)
+>Este cambio se realiza en config/packages/twig.yaml<br>
+>twig:
+>
+>>paths: ['%kernel.project_dir%/src/Views']
+>
+>>#default_path: '%kernel.project_dir%/templates'
