@@ -5,3 +5,5 @@
 > https://www.cerotec.net/tabla-colores-web
 ### Descargar imagenes libres
 >https://burst.shopify.com/
+### Descargar driver postgres para power bi
+>https://github.com/npgsql/Npgsql/releases
