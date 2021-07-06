@@ -7,3 +7,5 @@
 >https://burst.shopify.com/
 ### Descargar driver postgres para power bi
 >https://github.com/npgsql/Npgsql/releases
+### Expresiones regulares
+>https://informaticapc.com/tutorial-php/expresiones-regulares-reemplazar.php
