@@ -29,3 +29,5 @@
 >>#default_path: '%kernel.project_dir%/templates'
 ### Buscar fechas timestamp
 >SELECT * FROM usuarios.requerimientos WHERE fecha_registro>= '2021-06-21 00:00:00' and  fecha_registro<= '2021-06-21 23:59:59'
+### Ruta con variable
+>a href="{{ path('usuario_requerimiento_ver',{'id':requerimiento.id}) }}"
