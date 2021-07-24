@@ -9,3 +9,5 @@
 >https://github.com/npgsql/Npgsql/releases
 ### Expresiones regulares
 >https://informaticapc.com/tutorial-php/expresiones-regulares-reemplazar.php
+### ScriptCase
+> http://192.168.1.200:8091/scriptcase/devel/iface/login.php
