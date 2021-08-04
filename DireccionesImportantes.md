@@ -13,3 +13,5 @@
 > http://192.168.1.200:8091/scriptcase/devel/iface/login.php
 ### Colores bootstrap en hexadecimal
 > https://www.mamd4.com/colores-bootstrap-hexadecimales
+### Botones de subir archivos personalizados
+> https://codepen.io/iborrawebdesign/pen/oNXzXqK
