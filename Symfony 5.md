@@ -32,5 +32,5 @@
 ### Ruta con variable
 >a href="{{ path('usuario_requerimiento_ver',{'id':requerimiento.id}) }}"
 ### paginacion 
->composer require knplabs/knp-paginator-bundle
+>composer require knplabs/knp-paginator-bundle<br>
 >https://github.com/KnpLabs/KnpPaginatorBundle
