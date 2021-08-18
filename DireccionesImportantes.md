@@ -17,5 +17,5 @@
 > https://codepen.io/iborrawebdesign/pen/oNXzXqK
 ### Manipulacion de textos javascript
 > https://ed.team/blog/5-metodos-que-debes-conocer-para-manipular-textos-con-javascript
-### Correr codigo php
+### Correr codigos
 > https://paiza.io/projects/Fi9JvKk7OcgCT4ZMZmQyiQ?language=php
