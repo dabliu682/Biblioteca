@@ -5,3 +5,7 @@ echo("The extracted numbers are: $outputString \n");
 ### Reemplazar algo en una cadena de texto
 >$informes=$form['informes'];<br>
 >$outputString = str_replace(' ', '_', $informes);
+### Ver contenido de variable
+>echo "<pre>";
+>print_r($Comprobante);
+>echo "</pre>";exit;
