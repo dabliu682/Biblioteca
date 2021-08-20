@@ -19,3 +19,5 @@
 > https://ed.team/blog/5-metodos-que-debes-conocer-para-manipular-textos-con-javascript
 ### Correr codigos
 > https://paiza.io/projects/Fi9JvKk7OcgCT4ZMZmQyiQ?language=php
+### mostrar pdf en php
+> https://www.iteramos.com/pregunta/16745/mostrar-un-archivo-pdf-en-el-navegador-de-los-usuarios-a-traves-de-phpperl
