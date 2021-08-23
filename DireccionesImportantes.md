@@ -22,3 +22,5 @@
 ### mostrar pdf en php
 > https://www.iteramos.com/pregunta/16745/mostrar-un-archivo-pdf-en-el-navegador-de-los-usuarios-a-traves-de-phpperl
 > https://es.stackoverflow.com/questions/139222/incrustar-pdf-con-base64-y-php-mayor-a-6mb-en-un-html
+### Mostrar pdf's
+> https://es.stackoverflow.com/questions/376949/como-puedo-mostrar-en-html-un-archivo-pdf-que-viene-desde-el-servidor-codificad
