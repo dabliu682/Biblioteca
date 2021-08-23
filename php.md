@@ -9,3 +9,5 @@ echo("The extracted numbers are: $outputString \n");
 >echo "<pre>";
 >print_r($Comprobante);
 >echo "</pre>";exit;
+### Operador ternario
+> $resultado = $condicion ? 'verdadero' : 'falso';
