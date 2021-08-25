@@ -24,3 +24,5 @@
 > https://es.stackoverflow.com/questions/139222/incrustar-pdf-con-base64-y-php-mayor-a-6mb-en-un-html
 ### Mostrar pdf's
 > https://es.stackoverflow.com/questions/376949/como-puedo-mostrar-en-html-un-archivo-pdf-que-viene-desde-el-servidor-codificad
+### Consultas sql
+> https://www.todopostgresql.com/comandos-postgresql-alter/
