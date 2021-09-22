@@ -26,3 +26,11 @@
 > https://es.stackoverflow.com/questions/376949/como-puedo-mostrar-en-html-un-archivo-pdf-que-viene-desde-el-servidor-codificad
 ### Consultas sql
 > https://www.todopostgresql.com/comandos-postgresql-alter/
+### Modelos bases de datos
+> https://app.dbdesigner.net/designer
+### Servidor Compuconta 2
+> http://server.compuconta2.com
+### Colmena 
+> https://www.colmenaseguros.com/Paginas/IngresoEncuestaCovid.aspx
+### Scriptcase
+> http://192.168.1.200:8091/scriptcase/devel/iface/login.php
