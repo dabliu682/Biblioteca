@@ -35,4 +35,4 @@
 >composer require knplabs/knp-paginator-bundle<br>
 >https://github.com/KnpLabs/KnpPaginatorBundle
 ### Permisos carpeta
->chmod 777 * -R mesaAyuda/
+>chmod 777 * -R carpeta/
