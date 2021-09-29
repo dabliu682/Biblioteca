@@ -34,3 +34,5 @@
 > https://www.colmenaseguros.com/Paginas/IngresoEncuestaCovid.aspx
 ### Scriptcase
 > http://192.168.1.200:8091/scriptcase/devel/iface/login.php
+### Imprimir arbol
+> https://www.aprendemachinelearning.com/arbol-de-decision-en-python-clasificacion-y-prediccion/
