@@ -36,3 +36,5 @@
 >https://github.com/KnpLabs/KnpPaginatorBundle
 ### Permisos carpeta
 >chmod 777 * -R carpeta/
+### Crear link
+> $this->addsql("insert into central.accesoxmodulos (opcion, nivel, madre, ruta, frame, modulogr, id, orden, parametros) values('Contabilidad',0,'','portada_contabilidad','','Contabilidad',nextval('central.accesoxmodulos_id_seq'),1,'')");
