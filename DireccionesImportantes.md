@@ -36,3 +36,5 @@
 > http://192.168.1.200:8091/scriptcase/devel/iface/login.php
 ### Imprimir arbol
 > https://www.aprendemachinelearning.com/arbol-de-decision-en-python-clasificacion-y-prediccion/
+### Diseño arquitectura de software
+> https://deahesy22.files.wordpress.com/2010/09/arq21_software.gif
