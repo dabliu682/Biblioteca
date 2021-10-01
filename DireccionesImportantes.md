@@ -38,3 +38,5 @@
 > https://www.aprendemachinelearning.com/arbol-de-decision-en-python-clasificacion-y-prediccion/
 ### Diseño arquitectura de software
 > https://deahesy22.files.wordpress.com/2010/09/arq21_software.gif
+### Mineria de datos
+> https://www.kaggle.com/sanketparate5/hr-analysis-step-by-step
