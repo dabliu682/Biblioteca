@@ -40,3 +40,5 @@
 > https://deahesy22.files.wordpress.com/2010/09/arq21_software.gif
 ### Mineria de datos
 > https://www.kaggle.com/sanketparate5/hr-analysis-step-by-step
+### Crear API symfony react
+>https://www.twilio.com/blog/building-a-single-page-application-with-symfony-php-and-react
