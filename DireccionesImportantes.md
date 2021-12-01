@@ -44,3 +44,5 @@
 >https://www.twilio.com/blog/building-a-single-page-application-with-symfony-php-and-react
 ### TextArea react-native
 > https://stackoverflow.com/questions/41678570/what-is-an-alternative-of-textarea-in-react-native
+### Input file
+> https://aboutreact.com/file-picker-in-react-native/
