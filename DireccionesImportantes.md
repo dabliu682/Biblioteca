@@ -46,3 +46,5 @@
 > https://stackoverflow.com/questions/41678570/what-is-an-alternative-of-textarea-in-react-native
 ### Input file
 > https://aboutreact.com/file-picker-in-react-native/
+### Login react-native
+> https://medium.com/@ashfaaqahamed17/creating-signup-and-login-system-using-react-native-php-and-mysql-f176a1de2c73
