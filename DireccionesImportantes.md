@@ -50,3 +50,5 @@
 > https://medium.com/@ashfaaqahamed17/creating-signup-and-login-system-using-react-native-php-and-mysql-f176a1de2c73
 ### Axios con autenticacion basica
 > https://qastack.mx/programming/44072750/how-to-send-basic-auth-with-axios
+### Ejemplo autenticacion JWT symfony 5
+> https://smoqadam.me/posts/how-to-authenticate-user-in-symfony-5-by-jwt/
