@@ -9,5 +9,5 @@ git push origin odgallardo
 ### Registro de commit
 git log	
 ### Hacer pull a rama actual
-git pull
+git pull<br>
 php bin/console doctrine:migrations:migrate
