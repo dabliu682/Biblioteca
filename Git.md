@@ -8,3 +8,6 @@ git commit -m "Un comentario de lo que se hizo"
 git push origin odgallardo
 ### Registro de commit
 git log	
+### Hacer pull a rama actual
+git pull
+php bin/console doctrine:migrations:migrate
