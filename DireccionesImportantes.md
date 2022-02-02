@@ -52,3 +52,5 @@
 > https://qastack.mx/programming/44072750/how-to-send-basic-auth-with-axios
 ### Ejemplo autenticacion JWT symfony 5
 > https://smoqadam.me/posts/how-to-authenticate-user-in-symfony-5-by-jwt/
+### Enviar formulario con javascript
+> https://desarrolloweb.com/articulos/upload-archivos-ajax-jquery.html
