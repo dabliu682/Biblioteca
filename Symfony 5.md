@@ -45,3 +45,9 @@
 ### Envio de archivos ftp
 > https://github.com/dg/ftp-php<br>
 > https://packagist.org/packages/ijanki/ftp-bundle
+### Consulta sql limpio
+>$consDoc="select * from contabilidad.saldoxdocumentos where docSoporte=:docSoporte and id_cuenta=:idCuenta and id_tercero=:idTercero and saldo>0 order by saldo desc Limit 1";<br>
+>$Parameters=array(':docSoporte'=>$detContable['docsoporte'],':idCuenta'=>$detContable['cuenta'],':idTercero'=>$detContable['tercero']);<br>
+>$result = $bd->getConnection()->prepare($consDoc);<br>
+>$result->execute($Parameters);<br>
+>$existeDoc = $result->fetchAll();<br>
