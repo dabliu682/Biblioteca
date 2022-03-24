@@ -37,7 +37,14 @@
 ### Permisos carpeta
 >chmod 777 * -R carpeta/
 ### Crear link
-> $this->addsql("insert into central.accesoxmodulos (opcion, nivel, madre, ruta, frame, modulogr, id, orden, parametros) values('Contabilidad',0,'','portada_contabilidad','','Contabilidad',nextval('central.accesoxmodulos_id_seq'),1,'')");
+> $this->addsql("insert into central.accesoxmodulos (opcion, nivel, madre, ruta, frame, modulogr, id, orden, parametros) values('Contabilidad',0,'','portada_contabilidad','','Contabilidad',nextval('central.accesoxmodulos_id_seq'),1,'')");<br>
+> $this->addsql("INSERT INTO central.accesoxmodulos( opcion, nivel, madre, ruta, frame, modulogr, id, orden, parametros)VALUES ('Separator', 2, 'Configuracion', null, null, 'Contabilidad', nextval('central.accesoxmodulos_id_seq'), 19, null)");<br>
+> $this->addsql("INSERT INTO central.accesoxmodulos( opcion, nivel, madre, ruta, frame, modulogr, id, orden, parametros)VALUES ('Programacion diferidos', 2, 'Configuracion','conta_programacionDiferidos', '', 'Contabilidad', nextval('central.accesoxmodulos_id_seq'), 20, ''));
+
+$this->addsql("INSERT INTO central.accesoxmodulos( opcion, nivel, madre, ruta, frame, modulogr, id, orden, parametros) VALUES ('Separator', 2, 'Procesos', null, null, 'Contabilidad', nextval('central.accesoxmodulos_id_seq'), 20, null)");
+$this->addsql("INSERT INTO central.accesoxmodulos( opcion, nivel, madre, ruta, frame, modulogr, id, orden, parametros)VALUES ('Ejecutar diferidos', 2, 'Procesos','conta_ejecutarDiferidos', '', 'Contabilidad', nextval('central.accesoxmodulos_id_seq'), 21, '')");
+
+
 ### Crear una aplicacion
 > composer create-project symfony/website-skeleton miprimerproyecto
 ### Archivo base64 prueba
