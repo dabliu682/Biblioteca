@@ -54,3 +54,5 @@
 > https://smoqadam.me/posts/how-to-authenticate-user-in-symfony-5-by-jwt/
 ### Enviar formulario con javascript
 > https://desarrolloweb.com/articulos/upload-archivos-ajax-jquery.html
+### Aplicacion Symfony-Git
+> https://www.twilio.com/blog/building-a-single-page-application-with-symfony-php-and-react
