@@ -56,3 +56,5 @@
 > https://desarrolloweb.com/articulos/upload-archivos-ajax-jquery.html
 ### Aplicacion Symfony-React
 > https://www.twilio.com/blog/building-a-single-page-application-with-symfony-php-and-react
+### ordenar Array
+> https://www.delftstack.com/es/howto/php/how-to-sort-an-array-of-associative-arrays-by-value-of-a-given-key-in-php/#:~:text=funci%C3%B3n%20usort()-,Usar%20la%20funci%C3%B3n%20array_multisort()%20para%20ordenar%20un%20array%20de,una%20clave%20dada%20en%20PHP&text=Es%20la%20array%20que%20queremos%20clasificar.&text=Nos%20dice%20el%20orden%20en,SORT_DESC%20para%20el%20orden%20descendente.
