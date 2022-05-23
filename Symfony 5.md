@@ -58,3 +58,34 @@ $this->addsql("INSERT INTO central.accesoxmodulos( opcion, nivel, madre, ruta, f
 >$result = $bd->getConnection()->prepare($consDoc);<br>
 >$result->execute($Parameters);<br>
 >$existeDoc = $result->fetchAll();<br>
+### Validar tipo y peso de archivo
+>$(document).on('change','input[type="file"]',function()
+>        {
+>            var fileName = this.files[0].name;
+>            var fileSize = this.files[0].size;
+>            var label = document.querySelector('.labelArchivo');
+
+>           if(fileSize > 2000000)
+>            {
+>                this.value = '';
+>                label.textContent='Seleccione una imagen'
+>                bootbox.alert("El archivo no debe superar los 2MB");
+>            }
+>            else
+>            {
+>                var ext = fileName.split('.').pop();
+>                ext = ext.toLowerCase();
+>                switch (ext)
+>                {
+>                    case 'jpg':
+>                    case 'jpeg':
+>                    case 'png':
+>                    case 'pdf':
+>                        break;
+>                    default:
+>                        this.value = '';
+>                        label.textContent='Seleccione una imagen'
+>                        bootbox.alert("Archivo no admitido");
+>                }
+>            }
+>        });
