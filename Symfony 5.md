@@ -59,33 +59,33 @@ $this->addsql("INSERT INTO central.accesoxmodulos( opcion, nivel, madre, ruta, f
 >$result->execute($Parameters);<br>
 >$existeDoc = $result->fetchAll();<br>
 ### Validar tipo y peso de archivo
->$(document).on('change','input[type="file"]',function()
->        {
->            var fileName = this.files[0].name;
->            var fileSize = this.files[0].size;
->            var label = document.querySelector('.labelArchivo');
+>$(document).on('change','input[type="file"]',function()<br>
+>        {<br>
+>            var fileName = this.files[0].name;<br>
+>            var fileSize = this.files[0].size;<br>
+>            var label = document.querySelector('.labelArchivo');<br>
 
->           if(fileSize > 2000000)
->            {
->                this.value = '';
->                label.textContent='Seleccione una imagen'
->                bootbox.alert("El archivo no debe superar los 2MB");
->            }
->            else
->            {
->                var ext = fileName.split('.').pop();
->                ext = ext.toLowerCase();
->                switch (ext)
->                {
->                    case 'jpg':
->                    case 'jpeg':
->                    case 'png':
->                    case 'pdf':
->                        break;
->                    default:
->                        this.value = '';
->                        label.textContent='Seleccione una imagen'
->                        bootbox.alert("Archivo no admitido");
->                }
->            }
->        });
+>           if(fileSize > 2000000)<br>
+>            {<br>
+>                this.value = '';<br>
+>                label.textContent='Seleccione una imagen'<br>
+>                bootbox.alert("El archivo no debe superar los 2MB");<br>
+>            }<br>
+>            else<br>
+>            {<br>
+>                var ext = fileName.split('.').pop();<br>
+>                ext = ext.toLowerCase();<br>
+>                switch (ext)<br>
+>                {<br>
+>                    case 'jpg':<br>
+>                    case 'jpeg':<br>
+>                    case 'png':<br>
+>                    case 'pdf':<br>
+>                        break;<br>
+>                    default:<br>
+>                        this.value = '';<br>
+>                        label.textContent='Seleccione una imagen'<br>
+>                        bootbox.alert("Archivo no admitido");<br>
+>                }<br>
+>            }<br>
+>        });<br>
