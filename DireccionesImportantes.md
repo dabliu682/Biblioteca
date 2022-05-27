@@ -64,3 +64,5 @@
 >https://reactstrap.github.io/?path=/docs/home-installation--page
 ### React-bootstrap
 >https://react-bootstrap.github.io/getting-started/introduction/
+### Tomar fotografias
+> https://parzibyte.me/blog/2018/10/22/javascript-tomar-foto-camara-frontal-trasera/
