@@ -66,3 +66,5 @@
 >https://react-bootstrap.github.io/getting-started/introduction/
 ### Tomar fotografias
 > https://parzibyte.me/blog/2018/10/22/javascript-tomar-foto-camara-frontal-trasera/
+### Desabilitar https
+> chrome://flags/#unsafely-treat-insecure-origin-as-secure
