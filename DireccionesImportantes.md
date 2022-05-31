@@ -68,3 +68,5 @@
 > https://parzibyte.me/blog/2018/10/22/javascript-tomar-foto-camara-frontal-trasera/
 ### Desabilitar https
 > chrome://flags/#unsafely-treat-insecure-origin-as-secure
+### Buscar repetidos sql
+> https://programandoointentandolo.com/2017/06/buscar-registros-repetidos-sql.html
