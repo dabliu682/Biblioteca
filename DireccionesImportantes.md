@@ -70,5 +70,5 @@
 > chrome://flags/#unsafely-treat-insecure-origin-as-secure
 ### Buscar repetidos sql
 > https://programandoointentandolo.com/2017/06/buscar-registros-repetidos-sql.html
-### Ediccion excel en scriptcase
+### Edicion excel en scriptcase
 > https://phpspreadsheet.readthedocs.io/en/latest/topics/recipes/
