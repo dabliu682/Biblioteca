@@ -11,3 +11,5 @@ git log
 ### Hacer pull a rama actual
 git pull<br>
 php bin/console doctrine:migrations:migrate
+### Hacer reset force a rama local
+git reset --hard
