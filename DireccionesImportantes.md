@@ -72,3 +72,5 @@
 > https://programandoointentandolo.com/2017/06/buscar-registros-repetidos-sql.html
 ### Edicion excel en scriptcase
 > https://phpspreadsheet.readthedocs.io/en/latest/topics/recipes/
+### Metodos de formularios symfony
+> https://diego.com.es/form-events-en-symfony
